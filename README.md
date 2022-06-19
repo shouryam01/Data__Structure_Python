@@ -1,1 +1,2 @@
-# Data__Structure_Python
+# Data Structure Python
+1. Minimum and Maximum Value
